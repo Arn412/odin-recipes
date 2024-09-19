@@ -3,11 +3,18 @@
     background-color: bisque;
     font-family: 'helvetica', sans-serif;
     font-size: 42px;
+    padding: 24px 12px;
 }
 
 .link {
     color: red;
     font-weight: bold;
     font-size: 28px;
+
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
 
 }
